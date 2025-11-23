@@ -1,22 +1,7 @@
-# -------------------------------
-# Streamlit Gym Face Entry System
-# -------------------------------
-
-# Web framework
 streamlit==1.38.0
-
-# Core data libraries
 pandas==2.2.3
-numpy==1.26.4
-
-# Image and Vision
+numpy==2.1.1
 opencv-python-headless==4.10.0.84
 Pillow==10.4.0
-
-# Deep learning + face recognition
-tensorflow==2.15.0
-keras==2.15.0
-deepface==0.0.79
-
-# Utility / plotting
-matplotlib==3.9.2
+deepface==0.0.93
+onnxruntime==1.19.2
